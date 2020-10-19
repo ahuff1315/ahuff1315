@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Ana and welcome to my github.
+
+🔭 I’m currently working on my main side project [Financially Financed](https://financiallyfinanced.com) (It is in a private repo so you won't be able to see it here)  
+🌱 I’m currently learning Kubernetes  
+📖 You can find my portfolio site [here](https://anastasiahuff.com)  
+📫 How to reach me: anastasia.huff.dev@gmail.com  
+⚡ Fun fact: My brother plays pro baseball  
 <!--
 **ahuff1315/ahuff1315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
